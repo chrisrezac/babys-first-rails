@@ -1,0 +1,4 @@
+{
+  message: "Hello there! My name is Chris Rezac!",
+  random: @random
+}
